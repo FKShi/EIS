@@ -1,4 +1,4 @@
-# EIS
+# 生物细胞阻抗谱介电弛豫时间分布和多峰分析
 the Multi-peaks Analysis for the paper' Enhanced Resolution Impedimetric Analysis of Cell Responses from the Distribution of Relaxation Times'. It can also extend to other peak analysis by modifing some codes.
 
 If you feel it is useful, please consider to cite our work：
